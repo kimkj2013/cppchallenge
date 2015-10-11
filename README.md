@@ -38,9 +38,9 @@ This practice codes aim especially, but not limited to, following objectives:
 ## How-to
 Create GitHub account unless you have one, and fork this repository. Clone your forked repository to anywhere in your PC and start solving questions. I prefer you to use Linux, but using Visual Studio on Windows is still okay.
 
-# If you are stuck...
+## If you are stuck...
 * Don't hesitate to search for documentations. Good programmers always review whatever they have either learnt or forgot. Official documentations are more preferred than 'unofficial' ones.
 * If you can't still solve this question or find a bug on a code, contact me immediately.
  
-# Terms and Conditions
-The practice codes are licensed under Creative Commons Universal Zero 1.0 License. See LICENSE file for more information.
+## Terms and Conditions
+The practice codes are licensed under MIT License. See LICENSE file for more information.
