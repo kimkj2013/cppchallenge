@@ -1,6 +1,6 @@
 # C++ Challenge
 ## Introduction
-You want some challengable codes? This is a set of practice C++ questions which you can attepmt challenging.
+You want some challenging codes? This is a set of practice C++ questions which you can try out.
 
 ## For-whom
 This practice codes aim especially, but not limited to, following objectives:
