@@ -11,7 +11,7 @@ This practice codes aim especially, but not limited to, following objectives:
 ## Topics
 ### Basic Topics
 1. Hello, C++!
-2. How to compile using gcc
+2. How to compile using g++
 3. Console Input/Output
 4. Data types and variables
 5. Boolean algebra
