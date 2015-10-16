@@ -51,3 +51,10 @@ int gcd(int x, int y) {
 int div2(int n) {
   return -1;
 }
+
+/*
+ * Find how many steps will be needed to return 6174, a kaprekar constant
+ */
+int kaprekar(int n) {
+  return -1;
+}
