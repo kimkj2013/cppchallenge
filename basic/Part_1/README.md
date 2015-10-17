@@ -12,4 +12,4 @@ Now let's try. If you type `ls`, you will see all the files contained in the cur
 
 There is another file called `test2.c`. Try `g++ test2.c -o test`. What did you see? Any problem you got? If so, what is it? Type `nano test2.c` to open the editor. Fix the problem if the code has one. Press `Ctrl-O` and `Ctrl-X` to get back to the console. Try `g++ test2.c -o test` again. See the difference?
 
-For more informations, follow this link: http://www.cprogramming.com/g++.html or type `man g++` on your console prompt.
+For more information, follow this link: http://www.cprogramming.com/g++.html or type `man g++` on your console prompt.
