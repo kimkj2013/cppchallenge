@@ -58,3 +58,27 @@ int div2(int n) {
 int kaprekar(int n) {
   return -1;
 }
+
+/*
+ * Given an array, implement the recursive function to find 7 in array.
+ * You want to return the index of first 7 in the array.
+ * If no 7 is found, return -1.
+ */
+int find7(int array[], int start) {
+  return -1;
+}
+
+/*
+ * Implement a binary search function on your own.
+ * Caution, the array must be sorted before executing this function.
+ */
+int binarysearch(int array[], int to_find, int start, int end) {
+  return -1;
+}
+
+/*
+ * Implement a quick sort function on your own.
+ */
+void quicksort(/* Put your own argument here. */) {
+
+}

@@ -28,7 +28,7 @@ This practice codes aim especially, but not limited to, following objectives:
 2. Advanced Pointer Problems
 3. Pass-by (value, reference, pointer)
 4. Bitwise operation
-5. More algorithm questions
+5. Algorithm
 6. Stack and Queue (push, pop)
 7. LinkedList
 8. Hashing
