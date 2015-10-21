@@ -34,6 +34,7 @@ This practice codes aim especially, but not limited to, following objectives:
 8. Hashing
 9. Trees
 10. Recursion
+11. Modern C++ (C++11)
 
 ## How-to
 Create GitHub account unless you have one, and fork this repository. Clone your forked repository to anywhere in your PC and start solving questions. I prefer you to use Linux, but using Visual Studio on Windows is still okay.
